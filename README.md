@@ -2,6 +2,7 @@
 
 This repository is a personal journey to revisit and solidify foundational machine learning concepts. It includes concise theory reviews, hands-on coding exercises, algorithm implementations, and small-scale projects — organized session by session.
 
+course link: https://www.coursera.org/professional-certificates/ibm-machine-learning/
 ## 📚 What’s Inside
 
 - 🔁 Refresher notes on ML topics  
