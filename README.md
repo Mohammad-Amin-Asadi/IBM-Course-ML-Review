@@ -44,15 +44,17 @@ Then run scripts in your preferred Python environment or Jupyter notebook.
 
 ## 📁 Structure
 ``` bash
-ml-refresher/
-├── session_01/
+IBM-Course-ML-Review/
+├── module1/
 │   ├── notes.md
-│   └── model_01.py
-├── session_02/
+│   └── model_01.py 
+├── module2/
 │   └── ...
 ├── utils/
 │   └── metrics.py
-└── README.md
+├── README.md
+│
+└── .gitignore.md
 ```
 
 ## ✍️ Author
